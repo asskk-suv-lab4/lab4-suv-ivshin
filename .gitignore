@@ -1,0 +1,10 @@
+# IDE settings
+.vscode/
+.idea/
+# Python cache and local environment
+__pycache__/
+*.py[cod]
+.venv/
+# Local logs and environment variables
+*.log
+.env
